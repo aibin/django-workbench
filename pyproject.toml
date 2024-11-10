@@ -30,7 +30,7 @@ description = "A collection of django apps for building responsive web apps!"
 license = { "file" = "LICENSE" }
 name = "django-workbench"
 readme = "README.rst"
-version = "0.1.0"
+version = "0.1.1"
 
 [project.urls]
 Homepage = "https://github.com/aibin/django-workbench"
