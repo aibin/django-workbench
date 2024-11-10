@@ -44,7 +44,7 @@ source = ["."]
 exclude = ["/tests", "requirements.txt", "runtests.py"]
 
 [tool.hatch.build.targets.wheel]
-packages = ["django_workbench"]
+packages = ["workbench"]
 
 [tool.ruff]
 target-version = "py38"
